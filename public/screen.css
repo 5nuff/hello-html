@@ -9,4 +9,23 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-color: rgb(183, 255, 231);
+}
+h1 {
+  display: flex;
+  background-color:blue;
+  font-family: 'Times New Roman', Times, serif;
+  justify-content: center;
+  
+}
+p {
+  font-family:monospace;
+  border-style:solid;
+  border-color: crimson;
+  text-align: center;
+  background-color: aquamarine;
+}
+img {
+  border-style: solid;
+  border-color: crimson;
 }
